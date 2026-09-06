@@ -1,23 +1,23 @@
-
 <div align="center">
 
-<!-- Header Banner Terminal Aesthetic -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=180&section=header&text=Amna%20Khanum&fontSize=42&fontColor=58a6ff&animation=twinkling" width="100%" />
+<!-- 1. TOP TERMINAL ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amna0632&theme=react-dark&hide_border=false&area=true" width="100%" />
 
-### 💻 Frontend & Full Stack Developer
+<br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Responsive+Web+Apps;Exploring+MERN+Stack;Creating+Modern+UI%2FUX" alt="Typing SVG" />
-</p>
-
----
-
-### 📊 GitHub Streak & Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amna0632&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=amna0632&show_icons=true&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Stats" />
-</p>
+<!-- 2. BOTTOM SIDE-BY-SIDE TERMINAL WINDOWS -->
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- LEFT WINDOW: ASCII ART / PROFILE DISPLAY -->
+    <td width="40%" align="center" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=320&text=👩‍💻&fontSize=90&fontColor=58a6ff&stroke=30363d&strokeWidth=2" width="100%" />
+    </td>
+    
+    <!-- RIGHT WINDOW: TERMINAL WHOAMI INFO -->
+    <td width="60%" valign="top">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&pause=1000&color=58A6FF&multiline=true&width=450&height=320&lines=amna0632+-+$+whoami;----------------------------------;>+Role:+Frontend+%26+Full+Stack+Dev;>+Tech:+React,+Node.js,+JavaScript;>+Focus:+Building+Modern+Web+Apps;>+Status:+Exploring+MERN+Stack;----------------------------------;amna0632+-+$+cat+skills.txt;>+HTML,+CSS,+Tailwind,+JS,+React" alt="Terminal Info" />
+    </td>
+  </tr>
+</table>
 
 </div>
-
