@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**amna0632/amna0632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi, I'm Amna Khanum 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Frontend & Full Stack Developer
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amna0632&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=amna0632&show_icons=true&theme=dark&hide_border=false" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amna0632&layout=compact&theme=dark&hide_border=false" width="48%" />
+
+</div>
+
