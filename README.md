@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Matrix / Hacker-style animated banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Amna+Khanum;Frontend+%26+MERN+Stack+Developer;AI+Enthusiast+%F0%9F%9A%80;Building+Real-World+Web+Apps" alt="Typing SVG" />
+<!-- Reliable header banner (capsule-render) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00FF41&height=180&section=header&text=Amna%20Khanum&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20%26%20MERN%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
@@ -76,8 +76,8 @@ amna0632@github:~$ cat summary.txt
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=amna0632&show_icons=true&theme=matrix&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amna0632&theme=matrix&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amna0632&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=amna0632&theme=dark&hide_border=true" width="48%"/>
 
 <br/>
 
